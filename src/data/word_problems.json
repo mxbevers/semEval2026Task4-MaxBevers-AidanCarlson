@@ -1,0 +1,402 @@
+[
+  {
+    "Difficulty":"Easy",
+    "Problem":"The sum of a number and 3 is 10."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"A number increased by 5 equals 12."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"The difference between a number and 7 is 2."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"The product of a number and 4 is 20."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"Twice a number is 18."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"Half of a number equals 9."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"A number minus 2 is 8."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"Three times a number is 21."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"A number divided by 5 is 6."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"The sum of a number and 12 equals 15."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"A number decreased by 4 is 11."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"One more than a number is 14."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"Five less than a number is 9."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"A number plus 0 is still 13."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"A number minus 10 equals 3."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"Six times a number equals 30."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"The quotient of a number and 2 is 7."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"Four added to a number equals 9."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"A number minus 8 equals 6."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"A number increased by 2 equals 19."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"A number divided by 3 is 5."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"Twice a number equals 50."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"Ten less than a number is 20."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"A number plus 11 equals 25."
+  },
+  {
+    "Difficulty":"Easy",
+    "Problem":"The product of a number and 9 equals 81."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Twice a number plus 3 is 15."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Three times a number minus 4 is 14."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Four more than double a number is 18."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Half of a number plus 7 is 15."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"A number minus 3, then doubled, is 10."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Triple a number, then add 5, equals 20."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"A number divided by 2, plus 6, is 12."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Two more than a number, then multiplied by 3, is 21."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"A number plus 8, all divided by 2, equals 10."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"The sum of a number and 5, then doubled, is 24."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Five more than three times a number is 26."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"A number doubled, then reduced by 4, equals 10."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"A number halved, then plus 9, equals 13."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Two less than four times a number is 18."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"A number plus 3, then multiplied by 2, equals 12."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"A number divided by 4, then minus 2, equals 3."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Twice the sum of a number and 7 equals 30."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"A number plus 6, then halved, equals 8."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Triple a number, then subtract 2, equals 10."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"The sum of a number and 9, then multiplied by 2, equals 28."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"A number minus 5, then doubled, equals 8."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"One-third of a number plus 4 equals 10."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Four more than twice a number is 22."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"A number plus 3, then divided by 2, equals 6."
+  },
+  {
+    "Difficulty":"Medium",
+    "Problem":"Double a number, then add 9, equals 25."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Three times a number plus 2 equals twice the number plus 9."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Four less than double a number equals the number plus 8."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Five times a number minus 7 equals twice the number plus 11."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"The sum of a number and 8 equals twice the number minus 4."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Double a number minus 9 equals three times the number plus 1."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Half a number plus 6 equals the number minus 3."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Twice a number plus 5 equals four times the number minus 7."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"A number minus 2 equals 3 times the number minus 10."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Three more than half a number equals 10 less than the number."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Four times a number minus 15 equals two times the number plus 7."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"The sum of a number and 5 equals half the number plus 11."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"A number minus 4 equals twice the number minus 12."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Triple a number plus 8 equals five times the number minus 6."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Two less than a number equals half the number plus 7."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"A number plus 9 equals three times the number minus 15."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Four more than a number equals double the number minus 2."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Three times a number minus 2 equals the number plus 20."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"A number plus 12 equals twice the number minus 8."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Six more than twice a number equals three times the number minus 10."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"A number halved plus 3 equals 7 less than the number."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"The sum of a number and 5 equals two-thirds of the number plus 11."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"A number plus 8 equals four-fifths of the number plus 12."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Double a number plus 7 equals the number plus 15."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"A number minus 6 equals two times the number minus 20."
+  },
+  {
+    "Difficulty":"Hard",
+    "Problem":"Four more than three times a number equals 2 less than five times the number."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The product of a number and itself is 25."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"A number squared minus 4 equals 0."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"Twice a number squared equals 50."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The square of a number plus the number equals 20."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The product of two consecutive numbers is 72."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"A number squared equals 5 times the number."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The sum of a number and its square is 30."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The square of a number minus 5 times the number equals 24."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"A number squared minus 9 equals zero."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"Two numbers add up to 20, and their product is 96."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The square of a number equals three times the number plus 10."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"A number squared plus twice the number equals 35."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"A number squared minus 16 equals 0."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The difference of the squares of two numbers is 15."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The sum of two numbers is 12, and their difference is 4."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The product of a number and (the number minus 3) equals 40."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"A number squared equals 7 more than 2 times the number."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The sum of the squares of two numbers is 50."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The product of a number and its double is 72."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The square of a number is equal to 4 more than the number itself."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"A number multiplied by its successor equals 132."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The square of a number minus 2 equals 7 times the number."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The square of twice a number equals 64."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"A number squared plus 5 times the number plus 6 equals 0."
+  },
+  {
+    "Difficulty":"Extreme",
+    "Problem":"The sum of a number and its reciprocal equals 5\/2."
+  }
+]
