@@ -1,6 +1,1 @@
-pandas
-numpy
-matplotlib
-seaborn
-textblob
-praw
+sympy

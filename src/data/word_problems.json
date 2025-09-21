@@ -29,7 +29,7 @@
   },
   {
     "Difficulty":"Easy",
-    "Problem":"Three times a number is 21."
+    "Problem":"3 times a number is 21."
   },
   {
     "Difficulty":"Easy",
@@ -45,15 +45,15 @@
   },
   {
     "Difficulty":"Easy",
-    "Problem":"One more than a number is 14."
+    "Problem":"1 more than a number is 14."
   },
   {
     "Difficulty":"Easy",
-    "Problem":"Five less than a number is 9."
+    "Problem":"5 less than a number is 9."
   },
   {
     "Difficulty":"Easy",
-    "Problem":"A number plus 0 is still 13."
+    "Problem":"A number plus 0 is 13."
   },
   {
     "Difficulty":"Easy",
@@ -61,7 +61,7 @@
   },
   {
     "Difficulty":"Easy",
-    "Problem":"Six times a number equals 30."
+    "Problem":"6 times a number equals 30."
   },
   {
     "Difficulty":"Easy",
@@ -69,7 +69,7 @@
   },
   {
     "Difficulty":"Easy",
-    "Problem":"Four added to a number equals 9."
+    "Problem":"4 added to a number equals 9."
   },
   {
     "Difficulty":"Easy",
@@ -89,7 +89,7 @@
   },
   {
     "Difficulty":"Easy",
-    "Problem":"Ten less than a number is 20."
+    "Problem":"10 less than a number is 20."
   },
   {
     "Difficulty":"Easy",
@@ -105,11 +105,11 @@
   },
   {
     "Difficulty":"Medium",
-    "Problem":"Three times a number minus 4 is 14."
+    "Problem":"3 times a number minus 4 is 14."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"Four more than double a number is 18."
+    "Problem":"4 more than double a number is 18."
   },
   {
     "Difficulty":"Medium",
@@ -117,51 +117,51 @@
   },
   {
     "Difficulty":"Medium",
-    "Problem":"A number minus 3, then doubled, is 10."
+    "Problem":"A number minus 3 then doubled is 10."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"Triple a number, then add 5, equals 20."
+    "Problem":"Triple a number then add 5 equals 20."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"A number divided by 2, plus 6, is 12."
+    "Problem":"A number divided by 2 plus 6 is 12."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"Two more than a number, then multiplied by 3, is 21."
+    "Problem":"2 more than a number then multiplied by 3 is 21."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"A number plus 8, all divided by 2, equals 10."
+    "Problem":"A number plus 8 all divided by 2 equals 10."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"The sum of a number and 5, then doubled, is 24."
+    "Problem":"The sum of a number and 5 then doubled is 24."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"Five more than three times a number is 26."
+    "Problem":"5 more than 3 times a number is 26."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"A number doubled, then reduced by 4, equals 10."
+    "Problem":"A number doubled then reduced by 4 equals 10."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"A number halved, then plus 9, equals 13."
+    "Problem":"A number halved then plus 9 equals 13."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"Two less than four times a number is 18."
+    "Problem":"2 less than 4 times a number is 18."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"A number plus 3, then multiplied by 2, equals 12."
+    "Problem":"A number plus 3 then multiplied by 2 equals 12."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"A number divided by 4, then minus 2, equals 3."
+    "Problem":"A number divided by 4 then minus 2 equals 3."
   },
   {
     "Difficulty":"Medium",
@@ -169,47 +169,47 @@
   },
   {
     "Difficulty":"Medium",
-    "Problem":"A number plus 6, then halved, equals 8."
+    "Problem":"A number plus 6 then halved equals 8."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"Triple a number, then subtract 2, equals 10."
+    "Problem":"Triple a number then subtract 2 equals 10."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"The sum of a number and 9, then multiplied by 2, equals 28."
+    "Problem":"The sum of a number and 9 then multiplied by 2 equals 28."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"A number minus 5, then doubled, equals 8."
+    "Problem":"A number minus 5 then doubled equals 8."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"One-third of a number plus 4 equals 10."
+    "Problem":" 1-third of a number plus 4 equals 10."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"Four more than twice a number is 22."
+    "Problem":"4 more than twice a number is 22."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"A number plus 3, then divided by 2, equals 6."
+    "Problem":"A number plus 3 then divided by 2 equals 6."
   },
   {
     "Difficulty":"Medium",
-    "Problem":"Double a number, then add 9, equals 25."
+    "Problem":"Double a number then add 9 equals 25."
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Three times a number plus 2 equals twice the number plus 9."
+    "Problem":"3 times a number plus 2 equals twice the number plus 9."
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Four less than double a number equals the number plus 8."
+    "Problem":"4 less than double a number equals the number plus 8."
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Five times a number minus 7 equals twice the number plus 11."
+    "Problem":"5 times a number minus 7 equals twice the number plus 11."
   },
   {
     "Difficulty":"Hard",
@@ -217,7 +217,7 @@
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Double a number minus 9 equals three times the number plus 1."
+    "Problem":"Double a number minus 9 equals 3 times the number plus 1."
   },
   {
     "Difficulty":"Hard",
@@ -225,7 +225,7 @@
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Twice a number plus 5 equals four times the number minus 7."
+    "Problem":"Twice a number plus 5 equals 4 times the number minus 7."
   },
   {
     "Difficulty":"Hard",
@@ -233,11 +233,11 @@
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Three more than half a number equals 10 less than the number."
+    "Problem":"3 more than half a number equals 10 less than the number."
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Four times a number minus 15 equals two times the number plus 7."
+    "Problem":"4 times a number minus 15 equals 2 times the number plus 7."
   },
   {
     "Difficulty":"Hard",
@@ -249,23 +249,23 @@
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Triple a number plus 8 equals five times the number minus 6."
+    "Problem":"Triple a number plus 8 equals 5 times the number minus 6."
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Two less than a number equals half the number plus 7."
+    "Problem":"2 less than a number equals half the number plus 7."
   },
   {
     "Difficulty":"Hard",
-    "Problem":"A number plus 9 equals three times the number minus 15."
+    "Problem":"A number plus 9 equals 3 times the number minus 15."
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Four more than a number equals double the number minus 2."
+    "Problem":"4 more than a number equals double the number minus 2."
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Three times a number minus 2 equals the number plus 20."
+    "Problem":"3 times a number minus 2 equals the number plus 20."
   },
   {
     "Difficulty":"Hard",
@@ -273,7 +273,7 @@
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Six more than twice a number equals three times the number minus 10."
+    "Problem":"6 more than twice a number equals 3 times the number minus 10."
   },
   {
     "Difficulty":"Hard",
@@ -281,11 +281,11 @@
   },
   {
     "Difficulty":"Hard",
-    "Problem":"The sum of a number and 5 equals two-thirds of the number plus 11."
+    "Problem":"The sum of a number and 5 equals 2-thirds of the number plus 11."
   },
   {
     "Difficulty":"Hard",
-    "Problem":"A number plus 8 equals four-fifths of the number plus 12."
+    "Problem":"A number plus 8 equals 4-fifths of the number plus 12."
   },
   {
     "Difficulty":"Hard",
@@ -293,11 +293,11 @@
   },
   {
     "Difficulty":"Hard",
-    "Problem":"A number minus 6 equals two times the number minus 20."
+    "Problem":"A number minus 6 equals 2 times the number minus 20."
   },
   {
     "Difficulty":"Hard",
-    "Problem":"Four more than three times a number equals 2 less than five times the number."
+    "Problem":"4 more than 3 times a number equals 2 less than 5 times the number."
   },
   {
     "Difficulty":"Extreme",
@@ -317,7 +317,7 @@
   },
   {
     "Difficulty":"Extreme",
-    "Problem":"The product of two consecutive numbers is 72."
+    "Problem":"The product of 2 consecutive numbers is 72."
   },
   {
     "Difficulty":"Extreme",
@@ -337,11 +337,11 @@
   },
   {
     "Difficulty":"Extreme",
-    "Problem":"Two numbers add up to 20, and their product is 96."
+    "Problem":"2 numbers add up to 20 and their product is 96."
   },
   {
     "Difficulty":"Extreme",
-    "Problem":"The square of a number equals three times the number plus 10."
+    "Problem":"The square of a number equals 3 times the number plus 10."
   },
   {
     "Difficulty":"Extreme",
@@ -353,11 +353,7 @@
   },
   {
     "Difficulty":"Extreme",
-    "Problem":"The difference of the squares of two numbers is 15."
-  },
-  {
-    "Difficulty":"Extreme",
-    "Problem":"The sum of two numbers is 12, and their difference is 4."
+    "Problem":"The difference of the squares of 2 numbers is 15."
   },
   {
     "Difficulty":"Extreme",
@@ -369,7 +365,7 @@
   },
   {
     "Difficulty":"Extreme",
-    "Problem":"The sum of the squares of two numbers is 50."
+    "Problem":"The sum of the squares of 2 numbers is 50."
   },
   {
     "Difficulty":"Extreme",
