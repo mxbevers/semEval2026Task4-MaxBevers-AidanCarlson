@@ -1,2 +1,5 @@
 sympy
+pandas
 nltk
+scikit-learn
+numpy
