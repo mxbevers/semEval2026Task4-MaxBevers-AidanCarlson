@@ -1,1 +1,5 @@
 sympy
+nltk
+scikit-learn
+torch
+sentence-transformers
