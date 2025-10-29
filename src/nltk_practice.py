@@ -13,7 +13,6 @@ nltk.download('stopwords')
 stop_words = set(stopwords.words('english'))
 
 def clean_text(text):
-    """Tokenize, lowercase, remove stopwords/punctuation."""
     tokens = word_tokenize(text)
     filtered = [w.lower() for w in tokens if w.isalpha() and w.lower() not in stop_words]
     return " ".join(filtered)
@@ -25,32 +24,26 @@ with open("src/data/sample_track_a.jsonl", "r", encoding="utf-8") as f:
 
 with open("cosine_similarities.csv", "w", newline="", encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile)
-    writer.writerow([
-        "ID", "N", "A", "B",
-        "cos_sim_N_A", "cos_sim_N_B",
-        "text_a_is_closer"
-    ])
+    writer.writerow(["i", "n","a", "b","true_a_closer","estimate_a_closer"])
     
     for i, row in enumerate(data, start=1):
-        ta = clean_text(row.get("text_a", ""))
-        tb = clean_text(row.get("text_b", ""))
-        anchor = clean_text(row.get("anchor_text", ""))
+        a_tokens = clean_text(row.get("text_a", ""))
+        b_tokens = clean_text(row.get("text_b", ""))
+        anchor_tokens = clean_text(row.get("anchor_text", ""))
         
         vectorizer = TfidfVectorizer()
-        tfidf_matrix = vectorizer.fit_transform([anchor, ta, tb])
+        tfidf_matrix = vectorizer.fit_transform([anchor_tokens, a_tokens, b_tokens])
         
         cos_sim = cosine_similarity(tfidf_matrix)
+        cos_n_n = cos_sim[0,0]
         cos_n_a = cos_sim[0,1]  
         cos_n_b = cos_sim[0,2] 
+
+        if(cos_n_a >= cos_n_b):
+            a_closer = True
+        else:
+            a_closer = False
         
-        writer.writerow([
-            f"{i}",   
-            f"N{i}",  
-            f"A{i}",  
-            f"B{i}",  
-            cos_n_a,
-            cos_n_b,
-            row.get("text_a_is_closer", "")
-        ])
+        writer.writerow([f"{i}", cos_n_n, cos_n_a, cos_n_b, row.get("text_a_is_closer", ""),a_closer])
 def main():
     return 0
