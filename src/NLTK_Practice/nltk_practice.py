@@ -22,7 +22,7 @@ with open("src/data/sample_track_a.jsonl", "r", encoding="utf-8") as f:
     for line in f:
         data.append(json.loads(line))
 
-with open("cosine_similarities.csv", "w", newline="", encoding="utf-8") as csvfile:
+with open("src/sim_csv_data/cosine_similarities.csv", "w", newline="", encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(["i", "n","a", "b","true_a_closer","estimate_a_closer"])
     

@@ -41,7 +41,7 @@ with open("src/data/sample_track_a.jsonl", "r", encoding="utf-8") as f:
     for line in f:
         data.append(json.loads(line))
 
-with open("jaccard_similarities.csv", "w", newline="", encoding="utf-8") as f:
+with open("src/sim_csv_data/jaccard_similarities.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["i", "n","a", "b", "true_a_closer", "estimate_a_closer"])
 
